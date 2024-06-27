@@ -15,6 +15,11 @@
     "link": "https://cmail.100769.xyz/"
   },
   {
+    "icon": "Markdown",
+    "name": "文档",
+    "link": "https://mkred.100769.xyz/"
+  },
+  {
     "icon": "LaptopCode",
     "name": "站点监测",
     "link": "https://status.100769.xyz/"
