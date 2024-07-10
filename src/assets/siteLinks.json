@@ -20,6 +20,16 @@
     "link": "https://mkred.100769.xyz/"
   },
   {
+    "icon": "CompressAlt",
+    "name": "图片压缩",
+    "link": "https://smallpic.100769.xyz/"
+  },
+  {
+    "icon": "RecordVinyl",
+    "name": "Memos",
+    "link": "https://note.1769.us.kg/"
+  },
+  {
     "icon": "LaptopCode",
     "name": "站点监测",
     "link": "https://status.100769.xyz/"
